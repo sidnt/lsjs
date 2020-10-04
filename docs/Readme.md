@@ -1,0 +1,2 @@
+# lsjs
+> learning scala js
